@@ -1,1 +1,1 @@
-#+TITLE: Cubelpa - Cub Emacs Lisp Package Archives
+#+TITLE: Cubelpa Repository
