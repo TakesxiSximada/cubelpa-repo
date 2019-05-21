@@ -1,3 +1,0 @@
-#+TITLE: Cubelpa Recipe Space
-
-Please place a recipe for Cubelpa here.  The format of the recipe is the same as Melpa.
